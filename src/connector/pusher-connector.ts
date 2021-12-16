@@ -1,4 +1,5 @@
 import { Connector } from './connector';
+import Pusher from "pusher-js/react-native";
 import {
     PusherChannel,
     PusherPrivateChannel,
